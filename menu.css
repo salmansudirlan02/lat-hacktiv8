@@ -1,0 +1,59 @@
+.salas {
+    margin-top: 2em;
+    background-color: rgba(155, 148, 148, 0.24);
+    flex-wrap: wrap;
+    padding: 2em;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+p {
+    padding-top: 20px;
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+.tar {
+    justify-content: center;
+}
+.tombol {
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(0, 0, 241);
+    padding: 10px;
+    font-size: 20px;
+    margin-top: 30px;
+    border: 0 solid black;
+}
+.saya {
+    display: inline-block;
+    margin-right: 2em;
+    padding-top: 1em;
+}
+.bala {
+    text-decoration: none;
+    color: black;
+}
+.rata {
+    margin-top: 1em;
+    margin-bottom: 2em;
+    display: flex;
+    justify-content: space-evenly;
+}
+footer {
+    background-color: rgba(155, 148, 148, 0.24);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding-left: 2em;
+    padding-right: 2em;
+    flex-wrap: wrap;
+}
+.kiri {
+    float: left;
+}
+.kanan{
+    float: right;
+}
